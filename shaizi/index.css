@@ -41,6 +41,13 @@
             flex: 1;
 }
 
+.tip{
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
 .title{
     font-size: 50px;
 }
